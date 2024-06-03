@@ -1,6 +1,10 @@
 # Ruby for the World!
 A collection of awesome Ruby-centric resources for anything programmable ❤️
 
+### Cyber Security
+- [awesome-ruby-security](https://github.com/pxlpnk/awesome-ruby-security) - Awesome Ruby Security resources
+- [metasploit-framework](https://github.com/rapid7/metasploit-framework) - Metasploit Framework
+
 ### AI (and LLMs) 🤖
 - [awesome-ruby-ai](https://github.com/alexrudall/awesome-ruby-ai) - Awesome Ruby AI - A list of awesome AI projects built in Ruby! 🤖❤️
 
